@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+*.pyc
+.streamlit/
+lead_results.xlsx
